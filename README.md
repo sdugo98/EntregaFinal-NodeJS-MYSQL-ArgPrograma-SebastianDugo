@@ -153,7 +153,7 @@ Respuesta de Error (Status 500)
 
 
 Obtener series o peliculas por su nombre.
-(Metodo GET/catalogo/nombre:nombre)
+(Metodo GET/catalogo/nombre/:nombre)
 
 Respuesta Exitosa (Status 200 OK)
 
